@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Proyecto 1",
+        "descripcion": "First responsive landing podcast web page. This is my first Project done in my Acamica's journey. I hope you enjoy this responsive journey through my First Podcast Channel. You are able to listen it in your mobile device, laptop, tablet or desktop.",
+        "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+        "link" : "http://cv.giulianaolmos.guixon.com/"
+    },
+    {
+        "name": "Proyecto 2",
+        "descripcion": "Are you ready to CREATE your own gifs and share it w/your friend? Upload your GIFs and Stickers to share on Facebook, Twitter, Instagram, text message, email, and everywhere. Search those TOP TRENDING gifs that all want!",
+        "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+        "link": "http://cv.giulianaolmos.guixon.com/"
+    },
+    {
+        "name": "Proyecto 3",
+        "descripcion": "3th Acámica Project. Delilah Resto Project es una API para el manejo de ordenes, productos, pedidos y clientes de un Restaurant.",
+        "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+        "link": "http://cv.giulianaolmos.guixon.com/"
+    }
+
+]

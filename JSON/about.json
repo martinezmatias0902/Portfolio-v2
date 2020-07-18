@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Matias Martinez",
+        "profession" : "Full Stack Developer",
+        "photo" : "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+        "about_me" : "25, Self-taught and motivated to continue learning. I love technology, sports, mate and teamwork. I enjoy socializing and creating practical, effective and good-looking solutions. Im looking for a team willing to teach and innovate in technology solutions.",
+        "skills": [
+        "Javascript",
+        "NodeJs",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "Python",
+        "Scrum",
+        "Git"
+        ]
+    }
+]
